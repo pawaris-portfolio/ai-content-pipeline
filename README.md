@@ -1,2 +1,27 @@
-# ai-content-pipeline
-AI-Driven Content &amp; Video Production Pipeline using Claude AI for CAP+
+# 🎬 AI-Driven Content & Video Pipeline (Case Study: CAP+ Project)
+
+ระบบอัตโนมัติและกระบวนการคิดเชิงกลยุทธ์ (Content Framework) ที่ผสานการใช้งาน AI (Claude) เพื่อเปลี่ยนข้อมูลดิบ (Long-form Live) ให้กลายเป็นชุดคอนเทนต์วิดีโอสั้น (Short-form Video Scripts) ที่ทรงพลังและขับเคลื่อนยอดขายได้จริง
+
+---
+
+## 📌 Overview & Objective
+ในฐานะผู้รับผิดชอบด้าน Content & Marketing Operations โจทย์คือการลดคอขวดในการผลิตคอนเทนต์อสังหาฯ และสินค้าเทคโนโลยี (เช่น เครื่องเติมอากาศ CirQ Plus) ให้สามารถเจาะกลุ่มเป้าหมายที่หลากหลายได้อย่างรวดเร็ว โดยยังคงรักษามาตรฐานของแบรนด์ไว้ได้[cite: 1, 4]
+
+---
+
+## ⚙️ How It Works (AI Workflow)
+ระบบนี้ถูกออกแบบมาเพื่อจัดการคอนเทนต์แบบ End-to-End:
+1. **Timestamp Mapping:** สกัดประเด็นสำคัญจากไฟล์ Live ขนาดยาว พร้อมระบุช่วงเวลา (Timestamp) ของวิดีโอต้นฉบับอย่างแม่นยำ[cite: 4]
+2. **Structured Storyboard Framework:** ใช้ AI ร่างสคริปต์ 9:16 ตามโครงสร้างปิดการขาย:
+   - 🪝 **Hook:** ดึงดูดความสนใจด้วยปัญหาเฉพาะกลุ่ม[cite: 4]
+   - 🧱 **Pain Point:** ขยี้ปัญหา (เช่น ฝุ่น PM2.5, เสียงดังตอนนอน, คาร์บอนไดออกไซด์ในห้องทำงาน)[cite: 4, 6, 8]
+   - 💡 **Solution & Selling Point:** นำเสนอจุดเด่นสินค้าและวิธีแก้ปัญหา[cite: 4]
+   - 🎯 **CTA:** กระตุ้นการทักแชทเพื่อเช็คพื้นที่ติดตั้งฟรี[cite: 4]
+3. **Multi-Segment Production:** สามารถแตกคอนเทนต์จาก Live 1 ครั้ง ออกมาเป็นสคริปต์ย่อยได้ถึง **12 คลิป 12 มุมมอง** (ครอบคลุมทั้งกลุ่มคนนอนเปิดแอร์, คอนโด, ทาสแมว, และผู้สูงอายุ)[cite: 4, 6, 14, 26]
+
+---
+
+## 📊 Results & Impact
+* **Efficiency:** ลดเวลาการคิดคอนเทนต์และลดขั้นตอนการบรีฟงานลงอย่างมหาศาล พร้อมผลิตสคริปต์ได้กว่า 30+ ชุดครอบคลุมทุก Product Line[cite: 1]
+* **Verified Track Record:** ผลงานการันตีด้วยยอดวิวหลักแสนบนแพลตฟอร์มโซเชียลมีเดีย
+  - 🔗 [ดูหน้าผลงานพอร์ตโฟลิโอฉบับเต็ม](https://pawaris-portfolio.github.io/qqqrite/works.html)
